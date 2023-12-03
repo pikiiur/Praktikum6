@@ -78,4 +78,4 @@ print("Hasil Fungsi d:", result_d)
 ```
 
 ## Hasil Programnya
-1[](Screenshot/Latihan.png)
+![](Screenshot/Latihan.png)
